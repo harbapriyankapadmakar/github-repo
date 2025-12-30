@@ -1,0 +1,57 @@
+/* css code inside  */
+/*universal selector */
+*{
+
+    margin:0;
+    padding: 0;
+    background-color: blueviolet;
+}
+
+h1{
+color: blue;
+
+}
+
+#para1{
+    color: red;
+    background-color: aqua;
+}
+
+class{
+    background-color: blue;
+}
+#para{
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    border: 3px solid red;
+    margin: 30px;
+    background-color: aqua;
+}
+
+#p1{
+width: 150px;
+height: 150px;
+background-color: blue;
+border: 2px solid red;
+padding: 15px;
+margin: 10px;
+}
+
+#p2{
+width: 150px;
+height: 150px;
+background-color: blue;
+border: 2px solid red;
+padding: 15px;
+margin: 10px;
+}
+
+#p3{
+width: 150px;
+height: 150px;
+background-color: blue;
+border: 2px solid red;
+padding: 15px;
+margin: 10px;
+}
